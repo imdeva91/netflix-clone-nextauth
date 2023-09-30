@@ -2,7 +2,7 @@ import NextAuthProvider from '@/auth-provider'
 import './globals.css'
 // import { Inter } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
+// const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Create Next App',
